@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# Uploads / temporary files
+uploads/
+ProfileImage/
+
+# Optional npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
